@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<title>My HTML exercises Homepage
+<p>This web page has the links for my exercises.
+<a href="https://nmg888.github.io/exercises/Attributes.html">Attributes</a>
+<a href="https://nmg888.github.io/exercises/Colors.html">Colors</a>
+<a href="https://nmg888.github.io/exercises/Comments.html">Comments</a>
+<a href="https://nmg888.github.io/exercises/Formatting.html">Formatting</a>
+<a href="https://nmg888.github.io/exercises/Headings.html">Headings</a>
+<a href="https://nmg888.github.io/exercises/Paragraph.html">Paragraph</a>
+<a href="https://nmg888.github.io/exercises/Quotations.html">Quotations</a>
+<a href="https://nmg888.github.io/exercises/Styles.html">Styles</a>
+
+
+</body>
+</html>
