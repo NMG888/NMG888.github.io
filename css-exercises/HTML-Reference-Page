@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>HTML Reference PAGE</title>
+  </head>
+  <body>
+   <h1><b>What is HTML?</b></h1>
+   <p>HTML is the standard markup language for creating websites<br>
+    and is usually used in tandem with other languages used for <br>
+    styling the website.</p>
+    <h1><b>HTML requirements:</b></h1>
+    <p>To tell your computer that you are using HTML to code the<br>
+     the website, you must use these elements: &#60;DOCTYPE html&#62;,<br>
+    &#60;HTML&#62; and &#60;/HTML&#62;, and &#60;head&#62;. &#60;DOCTYPE html&#62;<br>
+     shows that the document will be using HTML. The space in between<br>
+     the &#60;HTML&#62; and &#60;/HTML&#62; is where you write your<br>
+     HTML code and will tell the computer where the HTML is on the screen.<br>
+    &#60;head&#62; allows you to put in the meta information about how the <br>
+     website will be organizedm it is extremely important for making the website<br>
+      accessable.</p>
+     <h1><b>Writing Elements</b></h1>
+     <p>In order to put writing on your website you must use these<br>
+      elements: &#60;title&#62;, &#60;body&#62;, &#60;p&#62;, and<br>
+      &#60;br&#62;.
+       &#60;title:&#62; puts in a title, &#60;body&#62; allows you to put paragraphs<br>
+      and writing inside of it, &#60;p&#62; allows you to write, and &#60;br&#62;<br>
+      allows you to put paragraph breaks.</p>
+      <h1><b>Writing Formatting:</b></h1>
+      <p>To organize your writing and format it properly, you can use these elements:<br>
+       &#60;hr&#62;, &#60;!-- --&#62;, and &#60;div&#62;. &#60;hr&#62; allows you to<br>
+        put in lines in between paragraphs, &#60;!-- --&#62; allows you to add comments,<br>
+        and &#60;div&#62; allows you to put in larger paragraph breaks.</p>
+        <h1><b>Other Elements</b></h1>
+        <p> Some other elements that are just as useful in creating your website are:<br>
+        &#60;a&#62; &#60;img&#62; &#60;ul&#62; &#60;ol&#62; &#60;li&#62; &#60;table&#62;<br>
+        &#60;tr&#62; &#60;th&#62; &#60;td&#62;. &#60;a&#62; allows you to put in links<br>
+        &#60;img&#62; allows you to add images, &#60;ul&#62; &#60;ol&#62; &#60;li&#62;<br>
+        are all for creating different types of lists, and &#60;tr&#62; &#60;th&#62; &#60;td&#62;<br> are all for making different types of tables.</p>
+        <h1><b>HTML elements</b></h1>
+        <!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Element Usage</th>
+    <th>Tag</th>
+  </tr>
+  <tr>
+    <td>
+HTML
+
+</td>
+    <td>&#60;html&#62;</td>
+  </tr>
+  <tr>
+    <td>Header</td>
+    <td>&#60;head&#62;</td>
+    </tr>
+    
+    <tr>
+    <td>Title</td>
+    <td>&#60;title&#62;</td>
+    </tr>
+    
+    <tr>
+    <td>Body</td>
+    <td>&#60;body&#62;</td>
+    </tr>
+    
+    <tr>
+    <td>Headings</td>
+    <td>&#60;h(#)&#62;</td>
+    </tr>
+    
+    <tr>
+    <td>Paragraph</td>
+    <td>&#60;p&#62;</td>
+    </tr>
+    
+     <tr>
+    <td>Breaks</td>
+    <td>&#60;br&#62;</td>
+    </tr>
+    
+     <tr>
+    <td>Lines</td>
+    <td>&#60;hr&#62;</td>
+    </tr>
+    
+     <tr>
+    <td>Comments</td>
+    <td>&#60;!-- --&#62;</td>
+    </tr>
+    
+     <tr>
+    <td>Links</td>
+    <td>&#60;q&#62;</td>
+    </tr>
+    
+     <tr>
+    <td>Images</td>
+    <td>&#60;img&#62;</td>
+    </tr>
+    
+     <tr>
+    <td>Lists</td>
+    <td>&#60;ul&#62;&#60;ol&#62;&#60;li&#62;</td>
+  </tr>
+  
+   <tr>
+    <td>Tables</td>
+    <td>&#60;td&#62;&#60;tr&#62;&#60;th&#62;</td>
+  </tr>
+  
+   <tr>
+    <td>Blocks</td>
+    <td>&#60;div&#62;</td>
+  </tr>
+</table>
+
+</body>
+</html>
