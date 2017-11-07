@@ -1,1 +1,17 @@
+.mystyle {
+  color:blue;
+}
 
+.mybstyle{
+  border: 2px solid Violet;
+}
+.mybgsytle {
+  background-color: lightblue;
+}
+.mybgistyle {
+  background-image: url("https://goo.gl/jcdXn2");
+}
+
+.mytsyle {
+  text-align: center;
+}
