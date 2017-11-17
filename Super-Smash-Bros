@@ -1,23 +1,29 @@
 <!DOCTYPE html>
 <html>
-<title style="color:Orange;">Overwatch</title>
-<body style="background-color:#1E202D;">  
-
-<h1 style="color:Orange;">Backround</h1> 
-<p style="color:White;"><b>
- </b></p>
- <img src="NMG888.github.io/images/OW_cast.jpg" style="width:450px;height:255px;">
-  
-  <p style="color:White;"></b>
-  </p>
-  <img src="NMG888.github.io/images/download.jpg" style="width:450px;height:255px;">
-
-  <h2 style="color:Orange;">The Game</h2>
-  <p style="color:White;"><b> </b></p>
-     <img src="NMG888.github.io/images/download3.jpg"style="width:450px;height:255px;">
-  <h3 style="color:Orange;">Closing Thoughts</h3>
-  <p style="color:White;"><b></b></p>  
-
-  <a href="https://NMG888.github.io">Hope Page</a>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+ <div class="topnav">
+  <a href="index.html">Home</a>
+    <a href="https://nmg888.github.io/Overwatch.html">Overwatch</a>
+  <a href="https://nmg888.github.io/TF2.html">Team Fortress 2</a>
+  <a href="https://nmg888.github.io/PUBG.html">PlayerUnknown's Battlegrounds</a>
+<a class="active" href="https://nmg888.github.io/Super-Smash-Bros.html">Super Smash Bros</a>
+<a href="https://NMG888.github.io/exercises/index.html">HTML Exercises</a>
+<a href="https://NMG888.github.io/css-exercises/index.html">CSS Exercises</a>
+<a href="NMG888.github.io/html-reference.html">HTML Reference Page</a>
+</div>
+<h1>Backround</h1>
+<p>Super Smash Bros(SSB) for the Wii U and 3DS is a fighter game made by nintendo in 2014 where you play all your favorite nintendo characters, from mario all the way to Mr. Game n watch, and was an instant success. The game was the successor of the 3 other games, SSB 64 SSB Melee, and SSB Brawl, and was another part of the renowned franchise, Super Smash Bros. While their is no confirmed inspiration or story behind the game, people specalate it is about the creator of the game, Masahiro Sakurai, and his conflicts with not being able to play with the characters he created because he is an adult.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NUvXzmt0if4" frameborder="0" allowfullscreen></iframe>
+<h1>The Game</h1>
+  <p>Unlike other fighter games where you have a health bar and hits do a certain amount of damage, SSB has a completely unique way of damage. In the game, each hit you take does a certain percent, the more percent you gain, the farther you get launched while getting hit. Until finally, you get his so far you either cannot recover back to the stage or you get knocked into the blastzone.</p><br>
+  <img src="NMG888.github.io/images/super_smash_bros_wii_u_3ds_characters_by_supersaiyancrash-d704xlh-1024x724.jpg" style="width:450px;height:255px;"><br>
+<p>Another unique part about SSB is the crazy amount of characters you can play, 58 characters, 7 of which are DLC(downloadable content), each with its own special abilities and moveset.</p>
+<h1>Closing Thoughts</h1>
+<p>Super Smash Bros is a great game with an amazing history, the game currently costs 60 dollars and can be bought for the Wii u or 3DS, however a new SSB game is in the works at nintendo for the switch and will be released soon.</p>
 </body>
 </html>
