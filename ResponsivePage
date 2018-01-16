@@ -1,7 +1,7 @@
   <div>
-     <img src='/Favicon.ico/ismall-1000.jpg'
-        srcset='/Favicon.ico/ihq-5700.jpg 5700w,
-                /Favicon.ico/ilq-3500.jpg 3500w,
-                /Favion.ico/imq-2000.jpg 2000w,
-                /Favicon.ico/ismall-1000.jpg 1000w'>
+     <img src='/Favicon.png/ismall-1000.jpg'
+        srcset='/Favicon.png/ihq-5700.jpg 5700w,
+                /Favicon.png/ilq-3500.jpg 3500w,
+                /Favion.png/imq-2000.jpg 2000w,
+                /Favicon.png/ismall-1000.jpg 1000w'>
    </div>
